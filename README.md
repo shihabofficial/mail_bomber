@@ -1,4 +1,4 @@
-# MailBomber
+# Mail_Bomber
 A Simple Tool To Bomb Emails using Your Mail .
 
 ## How to Use
