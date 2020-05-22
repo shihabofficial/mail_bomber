@@ -19,7 +19,7 @@ print ('''
 ''')
 print(" ")
 #########################   USER INFO ##########################
-user = raw_input('\033[94m[?] \033[97mYour \033[92mGmail\033[97m :\033[93m ')
+user = raw_input('\033[94m[?] \033[97mYour \033[92mMail\033[97m :\033[93m ')
 passworde = getpass.getpass('\033[94m[?]\033[97m Your \033[91mPassword\033[97m :\033[93m ')
 print(" ")
 victime = raw_input('\033[94m[?]\033[97m The victime \033[91mEMAIL\033[97m : \033[93m')
