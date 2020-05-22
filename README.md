@@ -1,9 +1,9 @@
-# GmailBomber
-A Simple Tool To Bomb Emails using Your Gmail .
+# MailBomber
+A Simple Tool To Bomb Emails using Your Mail .
 
 ## How to Use
 ```
-Sign in to your Gmail
+Sign in to your Mail
 Visit https://www.google.com/settings/security/lesssecureapps
 Turn on Less Secure App Logins
 ```
