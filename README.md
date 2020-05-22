@@ -14,7 +14,7 @@ apt upgrade
 apt update
 pkg install git
 pkg install python2
-git clone https://github.com/ArnabXD/GmailBomber.git
+git clone https://github.com/shihabofficial/gmail_bomber.git
 cd gmail_bomber
 python2 bomb.py
 ```
